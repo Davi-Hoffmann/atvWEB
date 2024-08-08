@@ -6,7 +6,7 @@ Atividade de Programação WEB da faculdade.
 
 https://tdeweb.netlify.app/
 
-Linguagens usadas:
+# Linguagens usadas:
 
 .HTML
 
